@@ -1,4 +1,5 @@
-# baijiacms3withxss
+# baijiacmsV3withxss
+BaijiacmsV3 does not open the issue
 
 baijiacmsV3 :https://github.com/baijiacms/baijiacmsV3
 
